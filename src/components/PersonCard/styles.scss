@@ -1,0 +1,7 @@
+@use 'base';
+$primaryColor: #c4c9b8;
+
+.personCard {
+    background-color: $primaryColor;
+    font-style: base.$font-stack;
+}
